@@ -1,0 +1,34 @@
+.caption {
+	padding-top: 80px;
+	
+}
+#webdomain{
+	font-family: "gloria hallelujah", cursive;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-forms{
+
+}
+.title{
+	color: white;
+}
+
+}
+.follow_container{
+	width: 100%;
+	position: absolute;
+	top: 35%;
+	text-align: center;
+	margin-top: -120px;
+}
+.row {
+	padding-top: 50px;
+	margin-top: 50px;
+	padding-left: 400px;
+}
+
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
